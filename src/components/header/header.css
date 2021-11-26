@@ -1,0 +1,46 @@
+.headerContainer {
+    background-color: #f8f9fa;
+    padding: 0 1rem;
+}
+.nav-item.show{
+    /*background-color: #001871;*/
+    color: #fff;
+}
+.headerContainer .navbar-light .navbar-nav .nav-link {
+    color: #001871;
+}
+.headerContainer .navbar-light .navbar-nav .show>.nav-link {
+    color: #fff;
+    background-color: #001871;
+}
+.headerContainer .navbar-light .navbar-nav .nav-link.homeLink, .headerContainer .navbar-light .navbar-nav .homeLink a{
+    color: #fff;
+    background-color: #001871;
+}
+.navbar {
+    padding-top:0 !important;
+    padding-bottom: 0!important;
+}
+.outerContainer .breadcrumb {
+    background-color: #001871;
+    color: #fff;
+    padding: 10px;
+}
+.outerContainer .breadcrumb a {
+    background-color: #001871;
+    color: #fff;
+    text-decoration: none;
+}
+.outerContainer .breadcrumb a:hover {
+    text-decoration: underline;
+}
+.outerContainer .breadcrumb-item+.breadcrumb-item::before {
+    color: #FA9917;
+    content: ">";
+}
+.navbar-right {
+    margin-left: auto;
+}
+.outerContainer .navbar-expand-lg .navbar-collapse {
+    margin-bottom: -23px;
+}

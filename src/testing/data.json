@@ -1,0 +1,153 @@
+{
+    "code": 200,
+    "meta": {
+      "pagination": {
+        "total": 1522,
+        "pages": 77,
+        "page": 1,
+        "limit": 20
+      }
+    },
+    "data": [
+      {
+        "id": 1756,
+        "name": "Sharique Kalam",
+        "email": "skalam123@lowe.com",
+        "gender": "male",
+        "status": "active"
+      },
+      {
+        "id": 1759,
+        "name": "Robert Sedlanic",
+        "email": "robert.sedlanic@yahoo.com",
+        "gender": "male",
+        "status": "active"
+      },
+      {
+        "id": 1760,
+        "name": "API Monitoring:oc1ict",
+        "email": "apimonitoringoc1ict@synthetic.com",
+        "gender": "male",
+        "status": "active"
+      },
+      {
+        "id": 11,
+        "name": "Jyotsana Shukla",
+        "email": "shukla_jyotsana@pfeffer.com",
+        "gender": "male",
+        "status": "active"
+      },
+      {
+        "id": 13,
+        "name": "Abhaidev Prajapat",
+        "email": "abhaidev_prajapat@leannon.io",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 14,
+        "name": "Msgr. Chaitan Ahuja",
+        "email": "msgr_chaitan_ahuja@torp.name",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 15,
+        "name": "Ranjeet Bandopadhyay",
+        "email": "ranjeet_bandopadhyay@lowe.com",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 16,
+        "name": "Suman Verma",
+        "email": "suman_verma@brown.net",
+        "gender": "female",
+        "status": "inactive"
+      },
+      {
+        "id": 17,
+        "name": "Anwesha Banerjee",
+        "email": "banerjee_anwesha@ratke-vandervort.name",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 18,
+        "name": "Msgr. Pran Khatri",
+        "email": "khatri_pran_msgr@mante.com",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 19,
+        "name": "Damayanti Bharadwaj DC",
+        "email": "damayanti_dc_bharadwaj@mccullough.name",
+        "gender": "female",
+        "status": "active"
+      },
+      {
+        "id": 20,
+        "name": "Lakshminath Pillai",
+        "email": "lakshminath_pillai@lockman.net",
+        "gender": "female",
+        "status": "inactive"
+      },
+      {
+        "id": 21,
+        "name": "Ravi Iyengar CPA",
+        "email": "iyengar_ravi_cpa@hermann.io",
+        "gender": "female",
+        "status": "inactive"
+      },
+      {
+        "id": 23,
+        "name": "Bhushan Gowda",
+        "email": "bhushan_gowda@barrows.net",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 24,
+        "name": "Prof. Bhagvan Mukhopadhyay",
+        "email": "bhagvan_mukhopadhyay_prof@kris-kertzmann.name",
+        "gender": "male",
+        "status": "active"
+      },
+      {
+        "id": 25,
+        "name": "Lakshminath Gill II",
+        "email": "ii_lakshminath_gill@bogan.info",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 26,
+        "name": "Daksha Nambeesan",
+        "email": "daksha_nambeesan@gutmann.org",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 27,
+        "name": "Ritesh Khanna",
+        "email": "khanna_ritesh@fritsch.org",
+        "gender": "female",
+        "status": "active"
+      },
+      {
+        "id": 28,
+        "name": "Dhana Pothuvaal",
+        "email": "pothuvaal_dhana@ward.com",
+        "gender": "male",
+        "status": "inactive"
+      },
+      {
+        "id": 29,
+        "name": "Dr. Dhanalakshmi Kaniyar",
+        "email": "dhanalakshmi_kaniyar_dr@predovic.name",
+        "gender": "male",
+        "status": "active"
+      }
+    ]
+  }

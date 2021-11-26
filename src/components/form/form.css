@@ -1,0 +1,82 @@
+.formContainer,.userFormContainer{
+    padding: 0.5rem 0;
+}
+.formContainer .greeting, .formContainer h4, .userFormContainer h4 {
+    color: #001871;
+}
+.formContainer .greeting {
+    font-size: 13px;
+}
+.formContainer form {
+    border: solid 1px #808080;
+    padding: 18px;
+    margin: 0 0 40px 0;    
+}
+.formContainer form .buttonRow {
+    justify-content: right;
+    padding: 0 15px;
+}
+.formContainer h4 {
+    display: inline-block;
+}
+.formContainer .displayValue {
+    font-size: 18px;
+    display: block;
+    color: #001871;
+    float: right;
+}
+.hideData {
+    display: none;
+}
+.showData {
+    padding: 40px 0; 
+}
+.showData .tableHdg{
+    font-weight: bold;
+}
+.showData button.btn{
+    line-height: 1;
+}
+.showData .data-table {
+    height: 519px;
+    width: 100%;
+}
+.showData .ag-center-cols-container {
+    width: 100% !important;  
+}
+.hideError {
+    display: none;
+}
+.showError {
+    padding: 10px; 
+    margin-bottom: 20px;
+    color: #d00;
+    border: 1px solid #d00;
+    text-align: center;
+}
+.userFormContainer label {
+    display: block;
+}
+.userFormContainer input, .userFormContainer select {
+    display: block;
+    width: 100%;
+    height: 40px;    
+}
+.userFormContainer .buttonRow {
+    padding: 10px 0 40px 0;
+}
+.inputError {
+    color: red;
+    display:block;
+    margin-bottom: 10px;    
+}
+.userFormContainer .showError {
+    padding: 10px 10px 0 10px; 
+    margin-bottom: 20px;
+    color: #d00;
+    border: 1px solid #d00;
+    text-align: left;
+}
+.ag-theme-alpine .ag-cell, .ag-theme-alpine .ag-full-width-row .ag-cell-wrapper.ag-row-group {
+    border: none !important;
+}

@@ -1,0 +1,17 @@
+
+.formContainer form label {
+    display:block;
+}
+.formContainer form select, .formContainer form input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.formContainer form button {
+    width: auto;
+    margin-left: 10px;
+    color: #0c0c0c;
+    background-color: #fdb813;
+    border-color: #fdb813;
+    font-weight: bold;
+}

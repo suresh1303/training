@@ -1,0 +1,59 @@
+[
+    {
+        "mainlink": {"name": "Home","link": "/"}
+    },
+    {
+        "mainlink": {"name": "Program","link": "/program"},
+        "sublink": [
+            {"name": "Action","link": "/program"},
+            {"name": "Another action","link": "/program"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "/program"}                                    
+        ]
+    },
+    {
+        "mainlink": {"name": "Certificate","link": "/certificate"},
+        "sublink": [
+            {"name": "Action","link": "/certificate"},
+            {"name": "Another action","link": "/certificate"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "/certificate"}                                    
+        ]
+    },
+    {
+        "mainlink": {"name": "Claims","link": "#"},
+        "sublink": [
+            {"name": "Action","link": "#"},
+            {"name": "Another action","link": "#"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "#"}                                    
+        ]
+    },
+    {
+        "mainlink": {"name": "Users","link": "#"},
+        "sublink": [
+            {"name": "Action","link": "#"},
+            {"name": "Another action","link": "#"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "#"}                                    
+        ]
+    },
+    {
+        "mainlink": {"name": "Payments","link": "#"},
+        "sublink": [
+            {"name": "Action","link": "#"},
+            {"name": "Another action","link": "#"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "#"}                                    
+        ]
+    },
+    {
+        "mainlink": {"name": "Contact Us","link": "#"},
+        "sublink": [
+            {"name": "Action","link": "#"},
+            {"name": "Another action","link": "#"},
+            {"name": ">","link": "#"},
+            {"name": "Something else","link": "#"}                                    
+        ]
+    }
+]

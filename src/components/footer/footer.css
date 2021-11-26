@@ -1,0 +1,18 @@
+.footerContainer {
+    background-color: #4A4A49;
+    padding: 1.5rem;
+}
+.footerContainer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
+.footerContainer, .footerContainer a  {
+    color: #fff !important;
+    text-decoration: none;
+}
+.footerRow {
+    justify-content: center;
+    padding-top: 20px;
+}
